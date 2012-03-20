@@ -1,0 +1,5 @@
+      [paste.app_factory]
+      main = mobilelib:main
+      [console_scripts]
+      populate_mobilelib = mobilelib.scripts.populate:main
+      
